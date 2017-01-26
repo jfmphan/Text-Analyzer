@@ -1,9 +1,3 @@
-// Justin Phan 63777127
-/*
- * Code was taken from the link given on the assignment webpage.
- */
-
-
 /*
 
    Porter stemmer in Java. The original paper is in

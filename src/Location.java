@@ -1,6 +1,4 @@
-// Justin Phan 63777127
-
-public class Location 
+public class Location
 {
 	private String file;
 	private int frequency;

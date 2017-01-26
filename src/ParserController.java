@@ -1,6 +1,3 @@
-// Justin Phan 63777127
-
-
 import java.io.File;
 import java.io.FileWriter;
 import java.util.HashMap;

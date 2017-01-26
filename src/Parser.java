@@ -1,6 +1,3 @@
-// Justin Phan 63777127
-
-
 import java.io.BufferedInputStream;
 import java.io.BufferedReader;
 import java.io.File;
